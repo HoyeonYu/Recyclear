@@ -12,11 +12,17 @@
 
 ![image](https://user-images.githubusercontent.com/53277342/132135370-c00d858f-10ec-4330-a3d8-3008cee05a75.png)
 
-![image](https://user-images.githubusercontent.com/53277342/132135440-60a00ed5-d17b-4006-82c0-a86662bfba95.png)
+## 시연영상 : 분리수거 자동화 시스템
+https://user-images.githubusercontent.com/53277342/132136450-9ab4d140-0ea7-42e6-a164-8c47623c4621.mp4
 
-![image](https://user-images.githubusercontent.com/53277342/132135455-1e5e6a98-3bcf-45b3-af14-b4c6fb05e495.png)
+## 시연영상 : 관리자 소프트웨어 
+https://user-images.githubusercontent.com/53277342/132136462-db37018d-b60a-42ea-a36c-6d82e34f0ba0.mp4
 
-![image](https://user-images.githubusercontent.com/53277342/132135461-2f990d41-f0ba-4ffb-ac10-45ed4ada9960.png)
+## 시연영상 : 재학습 DB
+https://user-images.githubusercontent.com/53277342/132136458-d400a807-28bf-436c-a774-173b34aaa985.mp4
+
+## 시연영상 : 재학습 서버 PC
+https://user-images.githubusercontent.com/53277342/132136456-497768de-07bf-4c4c-a37d-ed5c508579d6.mp4
 
 ![image](https://user-images.githubusercontent.com/53277342/132135468-ab9cfc52-beb3-403f-884b-94dce29ad89e.png)
 
@@ -38,8 +44,5 @@
 
 ![image](https://user-images.githubusercontent.com/53277342/132135517-0d4dae95-8a0d-4d7e-bea1-95424074e494.png)
 
-![image](https://user-images.githubusercontent.com/53277342/132135559-a2d2c8bf-8629-4c32-a11a-5fa894d45487.png)
-
-
-
-
+## 시연영상 : YOLOv4 물체 검출 + 하드웨어
+https://user-images.githubusercontent.com/53277342/132136731-0f11f776-f284-4422-9186-bd5c63e21ad7.mp4
