@@ -34,6 +34,10 @@ https://user-images.githubusercontent.com/53277342/132136456-497768de-07bf-4c4c-
 
 ![image](https://user-images.githubusercontent.com/53277342/132135496-d0cc4de3-d670-421c-b7e5-ec37c1788b74.png)
 
+## HSV Based Auto Video Labeling GitHub Link 
+### https://github.com/HoyeonYu/OpenCV_AutoVideoLabeling  
+![128007439-9ad1fd6a-6397-4356-b4b6-c1a3981682f7](https://user-images.githubusercontent.com/53277342/133132027-c6ce9219-01af-4a84-819c-952cf8a15d17.gif)  
+
 ![image](https://user-images.githubusercontent.com/53277342/132135500-078fbb9d-7b17-4c38-90ec-3bebde559da2.png)
 
 ![image](https://user-images.githubusercontent.com/53277342/132135503-3cb51823-8f5f-491e-9d2e-501b775d71f3.png)
