@@ -44,6 +44,10 @@ https://user-images.githubusercontent.com/53277342/132136456-497768de-07bf-4c4c-
 
 ![image](https://user-images.githubusercontent.com/53277342/132135508-8bae0514-2ce1-4902-b37a-4cd566847c1b.png)
 
+## Hardware Control GitHub Link 
+### https://github.com/HoyeonYu/Recyclear_Hardware 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/53277342/133414812-1ffbfc50-16d7-4e27-9313-15ffcf53db0c.gif)
+
 ![image](https://user-images.githubusercontent.com/53277342/132135515-19da930e-ec34-4f90-a72a-cbaa82d3d04f.png)
 
 ![image](https://user-images.githubusercontent.com/53277342/132135517-0d4dae95-8a0d-4d7e-bea1-95424074e494.png)
